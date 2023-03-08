@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm Hadi!
 
-I'm an aspiring software and AI developer working with Multi-national Company (MNC)
+An aspiring software and AI developer working with Multi-national Company (MNC)
