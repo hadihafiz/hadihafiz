@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Hadi!
+
+I'm an aspiring software and AI developer working with Multi-national Company (MNC)
